@@ -4,7 +4,7 @@ I'm currently study computer science on UNIFAJ 🏁
 
 technology enthusiast 📡
 
-actually focusing on PYTHON 🐍
+at the moment focusing on PYTHON 🐍
 
 
 

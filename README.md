@@ -7,9 +7,12 @@
 ➱ at the moment focusing on PYTHON 🐍
 
 ➠ SKILLS (more relevants)
-  PYTHON(pandas,CTk,TK, API'S) 🐍
-  C/C++ 🎮
-  LINUX/DOS 🐧
+
+PYTHON(pandas,CTk,TK, API'S) 🐍
+
+C/C++ 🎮
+
+LINUX/DOS 🐧
   
 
 

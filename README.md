@@ -8,11 +8,11 @@
 
 ➠ SKILLS (more relevants)
 
-PYTHON(pandas,CTk,TK, API'S) 🐍
+· PYTHON(pandas,CTk,TK, API'S) 🐍
 
-C/C++ 🎮
+· C/C++ 🎮
 
-LINUX/DOS 🐧
+· LINUX/DOS 🐧
   
 
 

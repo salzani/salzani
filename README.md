@@ -13,7 +13,9 @@
 · C/C++ 🎮
 
 · LINUX/DOS 🐧
-  
+
+· Network structure 🌐
+
 
 
 

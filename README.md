@@ -2,6 +2,10 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzani&layout=compact&theme=midnight-purple">
 
+
+
+
+
 ➱ I'm currently study computer science on UNIFAJ 🏁
 
 ➱ technology enthusiast 📡

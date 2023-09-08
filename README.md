@@ -6,6 +6,10 @@
 
 ➱ at the moment focusing on PYTHON 🐍
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzani&layout=compact&theme=midnight-purple">
+
+
 ➱ SKILLS
 
 
@@ -25,4 +29,4 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzani&layout=compact&theme=midnight-purple">
+

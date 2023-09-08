@@ -1,7 +1,5 @@
 ➱ Hi! I'm Pedro! 🚀 🐉
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzani&layout=compact&theme=midnight-purple">
-
 ➱ I'm currently study computer science on UNIFAJ 🏁
 
 ➱ technology enthusiast 📡
@@ -17,6 +15,8 @@
 · LINUX/DOS 🐧
 
 · Network structure 🌐
+
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzani&layout=compact&theme=midnight-purple">
 
 <img align="left" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 

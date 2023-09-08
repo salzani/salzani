@@ -6,14 +6,9 @@
 
 ➱ at the moment focusing on PYTHON 🐍
 
+➱ SKILLS/STATS
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzani&layout=compact&theme=midnight-purple">
-
-
-➱ SKILLS
-
-
-
 
 <img align="left" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
@@ -21,12 +16,3 @@
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" />
-
-
-
-
-
-
-
-
-

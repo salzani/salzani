@@ -8,7 +8,7 @@
 
 ➱ SKILLS/STATS
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzani&layout=compact&theme=midnight-purple">
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzani&layout=compact&theme=midnight-purple">
 
 <img  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">

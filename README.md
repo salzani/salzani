@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **CPD of city hall of Serra Negra-SP**
 
-- 🌱 I’m currently learning **PYTHON(Django,pandas,openpyxl,CTk)**
+- 🌱 I’m currently learning **PYTHON (Django,pandas,openpyxl,CTk)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/salzani](github.com/salzani)
 
-- 💬 Ask me about **network structure, python**
+- 💬 Ask me about **Network structure, Python, Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

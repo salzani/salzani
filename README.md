@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PYTHON (Django, pandas, openpyxl, CTk), SQL and web development**
 
-- 👨‍💻 All of my projects are available at [github.com/salzani](github.com/salzani)
+<!-- - 👨‍💻 All of my projects are available at [github.com/salzani](github.com/salzani) -->
 
 - 💬 Ask me about **Network structure, Python, Linux**
 

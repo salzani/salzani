@@ -22,6 +22,6 @@
 <br>
 <br>
 
-<p align="center">
+<p align="left">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salzani&layout=compact&theme=midnight-purple">
 </p>

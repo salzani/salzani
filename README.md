@@ -1,8 +1,8 @@
 <h1 align="center">hi, im Pedro!</h1>
 <h3 align="center">Jr Dev</h3>
-<div style="text-align: center;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNdOc5DVWZs0X8UovEpTmdvIIBnG89pb03qw&usqp=CAU" alt="luffy" style="margin: 0 auto; display: block;">
-</div>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNdOc5DVWZs0X8UovEpTmdvIIBnG89pb03qw&usqp=CAU" alt="luffy">
+</p>
 
 - 🔭 I’m currently working on **CPD of city hall of Serra Negra-SP**
 

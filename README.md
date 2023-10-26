@@ -1,6 +1,8 @@
 <h1 align="center">hi, im Pedro!</h1>
 <h3 align="center">Jr Dev</h3>
 
+<img src="https://pbs.twimg.com/media/EfKw0lGWAAAwXfG?format=png&name=large" alt="luffy">
+
 - 🔭 I’m currently working on **CPD of city hall of Serra Negra-SP**
 
 - 🌱 I’m currently learning **PYTHON (Django, pandas, openpyxl, CTk), SQL and web development**

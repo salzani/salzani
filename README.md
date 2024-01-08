@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **CPD of city hall of Serra Negra-SP**
 
-- 🌱 I’m currently learning **PYTHON (Django, pandas, openpyxl, CTk), SQL, JS and web development**
+- 🌱 I’m currently learning **PYTHON (pandas, pyxl) and SQL**
 
 <!-- - 👨‍💻 All of my projects are available at [github.com/salzani](github.com/salzani) -->
 

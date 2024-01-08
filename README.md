@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **CPD of city hall of Serra Negra-SP**
 
-- 🌱 I’m currently learning **JS/TS**
+- 🌱 I’m currently learning **JS/TS and Data science**
 
 <!-- - 👨‍💻 All of my projects are available at [github.com/salzani](github.com/salzani) -->
 

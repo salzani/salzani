@@ -23,6 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height=35px width=35px  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=35px width=35px/>
 <br>
+<br>
   
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rodrigues-674703232/)
           

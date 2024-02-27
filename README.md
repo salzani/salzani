@@ -6,7 +6,7 @@
 
 - 🚀 Currently working on **CPD of city hall of Serra Negra-SP**
 
-- 🛸 I’m currently learning **JS/TS and Data science**
+- 🛸 I’m currently learning **Java and SQL**
 
 - 🖖🏼 Ask me about **Network structure, Python, Linux**
 

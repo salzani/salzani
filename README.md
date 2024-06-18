@@ -6,7 +6,7 @@
 
 - 🚀 Currently working on **RAM Solutions**
 
-- 🛸 I’m currently learning **Java, REACT and oracle**
+- 🛸 I’m currently learning **Python and SQL**
 
 - 🖖🏼 Ask me about **Network structure, Python, Linux**
 

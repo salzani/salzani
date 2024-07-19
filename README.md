@@ -8,7 +8,7 @@
 
 - 🛸 I’m currently learning **Python and SQL**
 
-- 🖖🏼 Ask me about **Python | SQL **
+- 🖖🏼 Ask me about **Python | SQL**
 
 
 <br>

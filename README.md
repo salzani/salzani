@@ -4,8 +4,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNdOc5DVWZs0X8UovEpTmdvIIBnG89pb03qw&usqp=CAU" alt="luffy">
 </p> -->
 
-- 🚀 Currently working on **RAM Solutions**
-
 - 🛸 I’m currently learning **Python and SQL**
 
 - 🖖🏼 Ask me about **Python | SQL**

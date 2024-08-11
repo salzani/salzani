@@ -4,7 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNdOc5DVWZs0X8UovEpTmdvIIBnG89pb03qw&usqp=CAU" alt="luffy">
 </p> -->
 
-- 🛸 I’m currently learning **Python and SQL**
+- 🛸 I’m currently learning **Python, SQL and Power BI!**
 
 - 🖖🏼 Ask me about **Python | SQL**
 

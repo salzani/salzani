@@ -1,7 +1,6 @@
  <div align="center">
    <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.demolab.com/?lines=+ + + + + + + + + +Hello,+i'm+Pedro+Salzani;Passionate+about+data+and+AI" alt="Typing SVG">
-     📉 🤖
    </a>
 <br>
 <br>

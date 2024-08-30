@@ -1,4 +1,8 @@
-<h1 align="center">𝘏𝘪, 𝘪𝘮 𝘗𝘦𝘥𝘳𝘰.</h1>
+ <div align="center">
+   <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.demolab.com/?lines=+ + + + + + + + + +Hello,+i'm+Pedro.+;Passionate+about+data+and+AI" alt="Typing SVG">
+     📉 🤖
+   </a>
 <br>
 <br>
 

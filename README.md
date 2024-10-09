@@ -24,7 +24,6 @@
   <img src=https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white height="30px" width="100px"/>
   <br>
   <br>
-  <img src="https://github.com/user-attachments/assets/6e5dcf3d-7058-434a-a508-b285f6cb6a1d" alt="giphy"/>
   <br>
   <br>
  <br>

@@ -11,14 +11,11 @@
 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝙰𝙸
 </div>
 <br>
-
-<div id="info" align="center">
- ⚡️ 𝚊𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 ⚡️
-</div>
 <br>
     𝘍𝘰𝘭𝘭𝘰𝘸 𝘮𝘦 𝘰𝘯
   </div>
   <br>
+  <div align="center">
   <a href="https://www.linkedin.com/in/pedro-salzani-674703232/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -27,5 +24,6 @@
   <a href="https://x.com/pedraodados">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
+  </div>
 </div>
 

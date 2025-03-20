@@ -8,7 +8,7 @@
 <div id="info_me" align="center">
 
 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝. <br>
-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 NLP and CNN
+Machine Learning engineer intern 
 </div>
 <br>
 <br>

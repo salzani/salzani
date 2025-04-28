@@ -1,18 +1,11 @@
- <div align="center">
-   <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com/?lines=+ + + + + + + + + +Hello,+i'm+Pedro+Salzani;Passionate+about+data+and+AI" alt="Typing SVG">
-   </a>
-<br>
-<br>
-
+<div align="center">
 <div id="info_me" align="center">
 
-𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝. <br>
+𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 at UNIFAJ. <br>
+<br>
 Machine Learning engineer intern 
 </div>
 <br>
-<br>
-    𝘍𝘰𝘭𝘭𝘰𝘸 𝘮𝘦 𝘰𝘯
   </div>
   <br>
   <div align="center">
@@ -21,9 +14,6 @@ Machine Learning engineer intern
   </a>
  <br>
  <br>
-  <a href="https://x.com/pedraodados">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
   </div>
 </div>
 

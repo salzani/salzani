@@ -3,7 +3,7 @@
 
 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 at UNIFAJ. <br>
 <br>
-Machine Learning engineer intern 
+Machine Learning engineer intern at Instituto de pesquisas Eldorado
 </div>
 <br>
   </div>

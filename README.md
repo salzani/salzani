@@ -13,7 +13,7 @@
 
 </div>
 
-## Stack
+---
 
 <div align="center">
 

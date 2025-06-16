@@ -6,23 +6,12 @@
   
 </div>
 
----
-
 <div align="center">
-  
-  <div id="info_me" align="center">
-    <h3>𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 (6/8) at UNIFAJ</h3>
-    <h3>Machine Learning Engineer Intern at Instituto de Pesquisas Eldorado</h3>
-    <h3>📍 Campinas, Brazil</h3>
-  </div>
-  
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-salzani-674703232/)
 
 </div>
-
----
 
 ## Stack
 
@@ -50,22 +39,4 @@
 
 </div>
 
----
-
-## 📈 Progress Tracker
-
-<div align="center">
-
-| 🎓 **Education** | 🔢 **Progress** | 🎯 **Status** |
-|------------------|-----------------|---------------|
-| Computer Science | 6/8 semesters | 🟩🟩🟩🟩🟩🟩⬜⬜ |
-| ML Engineering | JR Level | 🚀 Growing |
-| Python Mastery | Advanced | 🐍 Advanced |
-
-</div>
-
-<div align="center">
-  <i>"Become what you are."</i>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=divider" width="100%">

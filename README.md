@@ -1,16 +1,20 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=02&height=200&section=header" width="100%">
 <div align="center">
 Hey, I'm Pedro.
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=+a+machine+learning+engineer;passionate+about+AI)](https://git.io/typing-svg)
-  
+
+At the moment, I'm working at Instituto de pesquisas Eldorado as a Machine Learning Engineer intern.
+<br>
+Clients: Motorola | Lenovo
+
 </div>
 
 ---
 
 <div align="center">
+
+I have experience with:
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -41,4 +45,4 @@ Feel free to contact me here:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=02&height=200&section=footer" width="100%">

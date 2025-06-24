@@ -4,7 +4,7 @@ Hey, I'm Pedro.
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=+a+machine+learning+engineer;passionate+about+AI)](https://git.io/typing-svg)
 
-At the moment, I'm working at Instituto de pesquisas Eldorado as a Machine Learning Engineer intern.
+Working at Instituto de pesquisas Eldorado as a Machine Learning Engineer intern.
 <br>
 Clients: Motorola | Lenovo
 

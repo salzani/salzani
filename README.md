@@ -6,7 +6,6 @@ Hey, I'm Pedro.
 
 Working at Instituto de pesquisas Eldorado as a Machine Learning Engineer intern.
 <br>
-Clients: Motorola | Lenovo
 
 </div>
 

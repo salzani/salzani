@@ -24,4 +24,4 @@ Machine Learning Engineer working at Instituto de pesquisas Eldorado.
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-salzani-674703232/)
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:f5f5f5&height=200&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:f5f5f5&height=200&section=footer" width="100%">

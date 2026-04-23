@@ -5,6 +5,9 @@
 
 Machine Learning Engineer working at Instituto de pesquisas Eldorado.
 <br>
+<br>
+Deep Learning researcher & tech enthusiast
+<br>
 
 </div>
 

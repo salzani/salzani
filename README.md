@@ -1,9 +1,6 @@
 <div align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.)](https://git.io/typing-svg)
-
-
-•  𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘢𝘵 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘰 𝘥𝘦 𝘱𝘦𝘴𝘲𝘶𝘪𝘴𝘢𝘴 𝘌𝘭𝘥𝘰𝘳𝘢𝘥𝘰.
+•  𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳 at 𝘐𝘯𝘴𝘵𝘪𝘵𝘶𝘵𝘰 𝘥𝘦 𝘱𝘦𝘴𝘲𝘶𝘪𝘴𝘢𝘴 𝘌𝘭𝘥𝘰𝘳𝘢𝘥𝘰.
 <br>
 <br>
 •  𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘳𝘦𝘴𝘦𝘢𝘳𝘤𝘩𝘦𝘳 & 𝘵𝘦𝘤𝘩 𝘦𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵
@@ -17,6 +14,5 @@
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-salzani-674703232/)
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.)](https://git.io/typing-svg)
+
 </div>

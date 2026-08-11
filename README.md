@@ -2,7 +2,7 @@
   
 •  Machine Learning Engineer at Instituto de pesquisas Eldorado
 
-•  Deep Learning researcher & AI enthusiast
+•  AI researcher and enthusiast
 
 • Researching computer vision and ADAS, while also working with generative AI for mobile solutions.
 

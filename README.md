@@ -1,10 +1,13 @@
 <div align="left">
   
-•  Machine Learning Engineer at Instituto de pesquisas Eldorado
+Machine Learning Engineer at Instituto de pesquisas Eldorado
 
-•  AI researcher and enthusiast
+Proficiency: <br>
 
-• Researching computer vision and ADAS, while also working with generative AI for mobile solutions.
+• Deep Learning <br>
+• Computer Vision <br> 
+• ADAS <br>
+• AI Multi-Agent Systems <br>
 
 </div>
 
